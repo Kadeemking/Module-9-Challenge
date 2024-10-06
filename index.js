@@ -34,12 +34,12 @@ const questions = [
     {
         type: 'input',
         message:("What command should be run to install dependencies?"),
-        name: 'installtion',
+        name: 'installation',
     },
     {
         type: 'input',
         message:("How can the user run test?"),
-        name: 'test',
+        name: 'tests',
     },
     {
         type: 'input',
