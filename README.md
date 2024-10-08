@@ -16,19 +16,21 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-
+Use npm i to download the dependencies.
 
 ## Usage
 
 To use my node application you first have to input "node index.js" in the terminal to run it. You will then be prompted with questions that will gather the information to build your README. Once answering all the questions, the answers will be appeneded to a new README file.
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+
+![Photo of application usage](./photos/screenshot9.png)
+
 
 ## Credits
 
 <a href="https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide">README Format</a> 
+
+<a href="https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba">License Page</a> 
 
 ## License
 
